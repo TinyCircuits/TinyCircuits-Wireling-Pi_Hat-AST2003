@@ -1,7 +1,7 @@
-# TinyCircuits Whisker Pi Hat AST2003
+# TinyCircuits Wireling Pi Hat AST2003
 # AST2003 Rev2
 
-The design files are located under design_files/ for the TinyCircuits AST2003 Rev 2 PCB. This is a Pi Hat that allows Pi users to add up to 4 Whiskers to their project. 
+The design files are located under design_files/ for the TinyCircuits AST2003 Rev 2 PCB. This is a Pi Hat that allows Pi users to add up to 4 Wirelings to their project. 
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
